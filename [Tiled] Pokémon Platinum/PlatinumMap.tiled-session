@@ -1,0 +1,106 @@
+{
+    "activeFile": "F:/PokemonPlatinumPygame/Twinleaf Town.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "BuildingObjects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Buildings.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "BuildingsTest.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.75
+        },
+        "F:/PokemonPlatinumPygame/BuildingObjects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "F:/PokemonPlatinumPygame/Buildings.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/PokemonPlatinumPygame/Nature 2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/PokemonPlatinumPygame/Twinleaf Town.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1060,
+                "y": 733.3333333333333
+            }
+        },
+        "F:/PokemonPlatinumPygame/VegetationObjects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/PokemonPlatinumPygame/test.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1040,
+                "y": 1150.6666666666667
+            }
+        },
+        "Nature 2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Small House.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "VegetationObjects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1182.6666666666665,
+                "y": 570.6666666666666
+            }
+        },
+        "test.tmx#Nature 2": {
+            "dynamicWrapping": false
+        },
+        "test.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/henry/Downloads/[Tiled] Pokémon Platinum/Assets",
+    "last.objectTemplatePath": "C:/Users/henry/Downloads/[Tiled] Pokémon Platinum/Templates",
+    "openFiles": [
+        "F:/PokemonPlatinumPygame/Twinleaf Town.tmx"
+    ],
+    "project": "PlatinumMap.tiled-project",
+    "recentFiles": [
+        "F:/PokemonPlatinumPygame/Twinleaf Town.tmx",
+        "F:/PokemonPlatinumPygame/test.tmx",
+        "VegetationObjects.tsx",
+        "BuildingObjects.tsx",
+        "test.tmx",
+        "BuildingsTest.tsx",
+        "Small House.tsx",
+        "Nature 2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
