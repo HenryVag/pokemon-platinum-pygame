@@ -1,4 +1,4 @@
-# ⚡🐹 Pokémon Platinum Pygame 🕹️
+#  Pokémon Platinum Pygame 🕹️
 
 
 This is a hobby project that I started working on in August 2025. My goal is to learn about game development with Python by recreating the starting area of the game.
